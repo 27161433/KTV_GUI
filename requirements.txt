@@ -1,6 +1,6 @@
 PySide6
 opencv-python
 numpy
-qframelesswindow
+PySideSix-Frameless-Window
 yt-dlp
 requests
