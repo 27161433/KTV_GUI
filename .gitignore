@@ -1,0 +1,28 @@
+# Cache files
+cache/
+*.log
+*.tmp
+
+# Executables
+*.exe
+*.dll
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller files
+*.spec
+build/
+dist/
+KTV_Player/build/
+KTV_Player/dist/
+
+# Ignore specific files but keep favorites.json
+*.json
+!favorites.json
+
+# Ignore specific images
+e64b3825121a09bcb453ab409ffaeca2.jpg
